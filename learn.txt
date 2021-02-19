@@ -9,3 +9,4 @@ From your working directory which is this one, you safe and exit this file.
 After you exit this file, you do git add . to add the new modified file to your staging area.
 Then, you do git commit -m "commit message" to safe the modified file to your local repository in git bash.
 Then, you do git push to push the modified file to the external or remote repository in github.
+Git pull and push are used to modify the file in the remote repository or github. To safe changes without viming you need to click at the bottom of the page "commit changes" when you finish adding all the changes.
