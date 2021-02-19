@@ -1,0 +1,2 @@
+#!/bin/bash
+This is our git practice file created on february 18 2021 by Heribert.
